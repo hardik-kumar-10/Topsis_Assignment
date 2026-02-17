@@ -3,7 +3,7 @@
 # 📊 TOPSIS — Multi-Criteria Decision Making
 
 **TOPSIS (Technique for Order Preference by Similarity to Ideal Solution)**
-by **Kumar Kashish** · Roll No: `102317239`
+by **Hardik Kumar** · Roll No: `102317054`
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -113,7 +113,7 @@ python >= 3.9
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Kumarkashish511/Topsis_Assignment.git
+git clone https://github.com/hardik-kumar-10/Topsis_Assignment.git
 cd Topsis_Assignment
 ```
 
@@ -154,9 +154,10 @@ python -m Topsis_Main example_data.csv "2.3,1.7,3.1,0.9,2.6" "+,-,+,-,+" output.
 
 ## 🌐 Live Demo
 
-> 🚀 **[Launch the Live Web App](https://topsisassignment-hebhatunxspobrx3nzxuip.streamlit.app/)**
+> 🚀 **[Launch the Live Web App](https://github.com/hardik-kumar-10/Topsis_Assignment)**
 
-> <img width="1430" height="712" alt="image" src="https://github.com/user-attachments/assets/b2a9bb6a-4aba-45ce-bd2b-07d7f9857684" />
+> <img width="1919" height="860" alt="Screenshot 2026-02-17 190733" src="https://github.com/user-attachments/assets/e73f61c9-fc8f-4642-9b72-69a42997911a" />
+
 
 ---
 
